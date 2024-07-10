@@ -304,7 +304,7 @@ export default function FormGen() {
               name="personalWebsite"
               value={formData.personalWebsite}
               onChange={handleChange}
-              className="mt-1 text-xl bg-black text-[#06D001] font-vt323 block w-full border border-gray-300 rounded-md p-2"
+              className="mt-1 text-xl bg-black text-[#06D001] font-vt323 block w-full border border-gray-200 rounded-md p-2"
             />
           </label>
         </div>
