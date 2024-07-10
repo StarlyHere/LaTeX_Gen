@@ -1,4 +1,4 @@
-##Resume Maker
+## Resume Maker
 
 The Resume Maker feature simplifies the resume creation process for users. 
 Users can:
